@@ -213,7 +213,7 @@ const socialprofils = {
   facebook: "https://www.facebook.com/salimuddin007/",
   linkedin: "https://www.linkedin.com/in/salimuddin07",
   twitter: "https://x.com/salimuddin007",
-  instagram: "https://www.instagram.com/iam_salimuddin_07/",
+  instagram: "https://www.instagram.com/salimuddin07_/",
   telegram: "https://t.me/salimuddin07",
 };
 

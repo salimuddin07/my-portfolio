@@ -21,7 +21,7 @@
 ### Social Media Links
 - **GitHub**: https://github.com/salimuddin07
 - **LinkedIn**: https://www.linkedin.com/in/salimuddin07
-- **Instagram**: https://www.instagram.com/iam_salimuddin_07/
+- **Instagram**: https://www.instagram.com/salimuddin07_/
 - **Twitter**: https://x.com/salimuddin007
 - **Facebook**: https://www.facebook.com/salimuddin007/
 - **Telegram**: https://t.me/salimuddin07
