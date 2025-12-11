@@ -4,6 +4,8 @@
   "devCommand": "npm start",
   "installCommand": "npm install",
   "framework": "create-react-app",
+  "cleanUrls": true,
+  "trailingSlash": false,
   "rewrites": [
     {
       "source": "/(.*)",
