@@ -212,7 +212,7 @@ const socialprofils = {
   github: "https://github.com/salimuddin07",
   facebook: "https://www.facebook.com/salimuddin007/",
   linkedin: "https://www.linkedin.com/in/salimuddin07",
-  twitter: "https://x.com/salimuddin007",
+  twitter: "https://x.com/salimuddin07_",
   instagram: "https://www.instagram.com/salimuddin07_/",
   telegram: "https://t.me/salimuddin07",
 };
